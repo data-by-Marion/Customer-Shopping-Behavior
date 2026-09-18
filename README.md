@@ -9,7 +9,7 @@ purchases.
 
 **Data set**
 Dataset
-Source: [Specify dataset origin, e.g., Kaggle / internal CSV file]
+Source: [internal CSV file]
 Format: CSV
 Content: Customer ID, purchase amount, item purchased, category, review rating, gender, subscription status, shipping type among others.
 
